@@ -81,8 +81,7 @@ La documentación se escribe en la carpeta correspondiente de GitHub.
 El instrumento permite reproducir sonidos de motores eléctricos simulados, también se experimentó con alarmas y bocinas con resultados mixtos. La idea es que diversos intérpretes usen el instrumento para reproducir sonidos de motores. Estos sonidos tendrían su frecuencia fundamental, frecuencia de oscilación, tiempo, velocidad de cambio (representado con masa), etc.
 
 ### Una imagen
-<!-- Sube la imagen a assets/img/ de tu repositorio -->
-![Interfaz de MotorSynth](/assets/img/motorsynth.jpg)
+no hay imagen aqui.
 
 Se utilizó IA exclusivamente para programar el instrumento y condensar los prompts en documentación. Cada característica, a excepción de la síntesis de audio, fue especificada en prompts.
 El documento presente fue escrito completamente de manera artesanal.
