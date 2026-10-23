@@ -44,10 +44,16 @@ El sitio en cuestión es [Pixbay](https://pixabay.com/sound-effects/search/elect
   Tu navegador no puede reproducir este audio. <a href="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/freesound_community-generator-synthetic-63166.mp3">Descargar</a>.
 </audio>
 
-### Una imagen
-El poner una imagen que no existe hace que reviente todo
+### El estado actual de MotorSynth
 <!-- Sube la imagen a assets/img/ de tu repositorio -->
 ![Screenshot de MotorSynth en su estado actual](/assets/MotorSynthv002_screenshot.png)
+Actualmente, MotorSynth solo ejecuta el sintetizado de sonido que se describió en la entrada anterior del portafolio. Los desafíos mayores radican en permitir que se pueda ejecutar de manera local y offline en las (¿los') Macs, y mejorar la interfaz de usuario.
+El método de creación musical usando este instrumento es similar al live coding. La idea es que cada persona pueda ir modificando los parámetros de los motores sobre la marcha, y que tengan unas "partituras" que expliciten qué parámnetros sugeridos pueden utilizar para cada sección de la pieza; así, quien quiera regirse a una estructura definida lo puede hacer, y por otro lado, también se puede improvisar o tener mucha flexibilidad artística.
+
+Tengo el dilema de si seguir ampliando masivamente la funcionalidad de MotorSynth: añadir más formas de simular motores, añadir samples, síntesis de otros tipos de sonidos, etc; o si simplemente hacer instrumentos pequeños, simples y altamente especializados para cada textura sonora de la obra.
+Se introduce la siguiente idea:
+### ResoDance
+
 
 ### Conclusión:
 Cierra con lo que aprendiste o lo que propones para la orquesta.
