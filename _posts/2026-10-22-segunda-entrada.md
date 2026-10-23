@@ -32,17 +32,22 @@ El sitio en cuestión es [Pixbay](https://pixabay.com/sound-effects/search/elect
 <!-- En YouTube: Compartir → Insertar, copia el src del iframe -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ID_DEL_VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Un audio (sample)
+### Samples de motores eléctricos
 <!-- Sube el audio a tu carpeta en el repo de la orquesta: portafolios/Nombre_Apellido/Samples/ -->
 <audio controls preload="none" style="width:100%">
   <source src="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/edr-rear-window-wiper-8189.mp3" type="audio/mpeg">
   Tu navegador no puede reproducir este audio. <a href="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/edr-rear-window-wiper-8189.mp3">Descargar</a>.
 </audio>
 
+<audio controls preload="none" style="width:100%">
+  <source src="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/freesound_community-generator-synthetic-63166.mp3" type="audio/mpeg">
+  Tu navegador no puede reproducir este audio. <a href="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/freesound_community-generator-synthetic-63166.mp3">Descargar</a>.
+</audio>
+
 ### Una imagen
 El poner una imagen que no existe hace que reviente todo
 <!-- Sube la imagen a assets/img/ de tu repositorio -->
-<!--![Descripción de la imagen](/assets/img/mi-imagen.png) -->
+![Screenshot de MotorSynth en su estado actual](/assets/MotorSynthv002_screenshot.png)
 
 ### Conclusión:
 Cierra con lo que aprendiste o lo que propones para la orquesta.
