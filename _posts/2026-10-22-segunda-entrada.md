@@ -1,8 +1,8 @@
 ---
 title: "Avances MotorSynth y obra asociada"
-date: 1026-10-26 12:00:00 -0300
-categories: [Ideas]
-tags: [orquesta]
+date: 2026-10-26 09:00:00 -0300
+categories: [Ideas, Avances]
+tags: [orquesta, motores, samples]
 ---
 
 <!--
@@ -26,7 +26,7 @@ Afortunadamente pude encontrar un sitio que posee derechos de autor sumamente li
 El sitio en cuestión es [Pixbay](https://pixabay.com/sound-effects/search/electric%20motor/?pagi=1). 
 
 
-Escribe aquí el texto de tu entrada. Puedes usar **negrita**, *cursiva* y [enlaces](https://orquestalaptopsuc.github.io/).
+<!-- Escribe aquí el texto de tu entrada. Puedes usar **negrita**, *cursiva* y [enlaces](https://orquestalaptopsuc.github.io/).-->
 
 ### Un video de YouTube
 <!-- En YouTube: Compartir → Insertar, copia el src del iframe -->
@@ -35,8 +35,8 @@ Escribe aquí el texto de tu entrada. Puedes usar **negrita**, *cursiva* y [enla
 ### Un audio (sample)
 <!-- Sube el audio a tu carpeta en el repo de la orquesta: portafolios/Nombre_Apellido/Samples/ -->
 <audio controls preload="none" style="width:100%">
-  <source src="https://orquestalaptopsuc.github.io/portafolios/Nombre_Apellido/Samples/mi-sample.wav" type="audio/wav">
-  Tu navegador no puede reproducir este audio. <a href="https://orquestalaptopsuc.github.io/portafolios/Nombre_Apellido/Samples/mi-sample.wav">Descargar</a>.
+  <source src="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/edr-rear-window-wiper-8189.mp3" type="audio/mpeg">
+  Tu navegador no puede reproducir este audio. <a href="https://orquestalaptopsuc.github.io/2026/portafolios/Lukas_Recart/Samples/edr-rear-window-wiper-8189.mp3">Descargar</a>.
 </audio>
 
 ### Una imagen
