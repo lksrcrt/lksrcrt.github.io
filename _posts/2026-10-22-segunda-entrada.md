@@ -1,6 +1,6 @@
 ---
 title: "Avances MotorSynth y obra asociada"
-date: 2026-10-26 09:00:00 -0300
+date: 2026-10-22 09:00:00 -0300
 categories: [Ideas, Avances]
 tags: [orquesta, motores, samples]
 ---
