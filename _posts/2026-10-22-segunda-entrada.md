@@ -40,8 +40,9 @@ Escribe aquí el texto de tu entrada. Puedes usar **negrita**, *cursiva* y [enla
 </audio>
 
 ### Una imagen
+El poner una imagen que no existe hace que reviente todo
 <!-- Sube la imagen a assets/img/ de tu repositorio -->
-![Descripción de la imagen](/assets/img/mi-imagen.png)
+<!--![Descripción de la imagen](/assets/img/mi-imagen.png) -->
 
 ### Conclusión:
 Cierra con lo que aprendiste o lo que propones para la orquesta.
