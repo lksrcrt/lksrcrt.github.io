@@ -1,8 +1,8 @@
 ---
 title: "Avances MotorSynth y obra asociada"
-date: 2026-10-26 12:00:00 -0300
+date: 1026-10-26 12:00:00 -0300
 categories: [Ideas]
-tags: [orquesta]
+tags: [orquesta] [motores] [synth]
 ---
 
 <!--
@@ -18,6 +18,12 @@ Ya hemos recibido los Macbooks oficiales para la orquesta. La forma en que está
 Esto plantea el desafío de que todos los instrumentos programados deben ser autocontenidos y funcionar de manera local. Personalmente estoy de acuerdo con esta medida pues no se debe depender de internet para que un instrumento funcione al momento de presentar.
 He identificado dos formas de solucionar este pequeño problema. La primera y más evidente radica en que cada archivo HTML y su JavaScript sea completamente autocontenido y que no requiera de ningún archivo externo para su ejecución. Esto es lo más sencillo a corto plazo y eficiente para proyectos pequeños. No obstante, tiene ciertas limitaciones a la hora de incluir archivos de audio, dependencias externas, etc.
 La segunda solución es incluir todos los archivos en una carpeta, de tal manera que al clonarse a las laptops desde github, uno pueda ejecutar el código sin mayores problemas. Esto plantea un desafío en el testeo de compatibilidad sin tener el acceso a los Macs.
+
+### Derechos de autor para samples
+Fue un desafío notorio manejar los derechos de autor al descargar samples. Muchas páginas directamente no dejan descargar los archivos, e incluso si se pudiera, no tienen licencias que permitan su uso.
+Esto podría llegar a ser un problema, por ejemplo, si se descarga el audio "a la mala" y luego se utiliza audio con copyright en una obra final. Esto no es deseable.
+Afortunadamente pude encontrar un sitio que posee derechos de autor sumamente libres, que nisiquiera requieren atribución directa y permite uso completo, al menos eso fue lo que entendí (no soy abogado).
+El sitio en cuestión es [Pixbay](https://pixabay.com/sound-effects/search/electric%20motor/?pagi=1). 
 
 
 Escribe aquí el texto de tu entrada. Puedes usar **negrita**, *cursiva* y [enlaces](https://orquestalaptopsuc.github.io/).
