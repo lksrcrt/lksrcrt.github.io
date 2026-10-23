@@ -2,7 +2,7 @@
 title: "Avances MotorSynth y obra asociada"
 date: 1026-10-26 12:00:00 -0300
 categories: [Ideas]
-tags: [orquesta] [motores] [synth]
+tags: [orquesta]
 ---
 
 <!--
