@@ -53,7 +53,9 @@ El método de creación musical usando este instrumento es similar al live codin
 Tengo el dilema de si seguir ampliando masivamente la funcionalidad de MotorSynth: añadir más formas de simular motores, añadir samples, síntesis de otros tipos de sonidos, etc; o si simplemente hacer instrumentos pequeños, simples y altamente especializados para cada textura sonora de la obra.
 Se introduce la siguiente idea:
 ### ResoDance
-
+![Imagen de un resonador magnético](/assets/img/fotoMRI.png)
+Propongo un instrumento que permita emular los ritmos, tonos y timbres de un resonador magnético. Su desarrollo se llevará a cabo en paralelo a la tarea 2, pues en esta se debe analizar la sonoridad de elementos a elección del estudiante.
+Existe una parte que sigue siendo mejor como sample: la bomba de helio. Es un componente con un sonido característico y un timbre muy particular que sería difícil de recrear desde cero. Afortunadamente, el resto de los sonidos del resonador son mucho más matemáticos. En el análisis provisorio que he hecho, dependiendo del modo de imagen que se utilice, tiene entre 6 y 15 frecuencias predominantes. Sospecho que al tomar la transformada de fourier, se pueden recrear los peaks y obtener un sonido bastante similar sin mucha mayor complejidad. Esto corresponde a ingeniería inversa del sonido mediante procesamiento de señales (relativamente) básico.
 
 ### Conclusión:
 Cierra con lo que aprendiste o lo que propones para la orquesta.
