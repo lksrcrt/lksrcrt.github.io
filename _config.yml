@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/lksrcrt/lksrcrt.github.io/blob/f3c0ebab044b010096c1afe5869ade8862e72359/assets/chimeneaxd.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
